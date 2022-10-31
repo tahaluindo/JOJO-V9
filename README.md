@@ -23,11 +23,6 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
-## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`THEJO307/private`](https://github.com/user-erorr/JOJO-PRIVATE-V9)
-* WhatsApp Bot Multi Device [`user-erorr/JOJO-PRIVATE-V9`](https://github.user-erorr/JOJO-PRIVATE-V9
-
 
 ## UNTUK PENGGUNA WINDOWS/RDP
 
@@ -37,9 +32,9 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git https://github.com/user-erorr/JOJO-PRIVATE-V9
-cd private
-npm install
+git https://github.com/tahaluindo/JOJO-V9
+cd JOJO-V9
+npm install && npm start
 ```
 
 ## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
@@ -56,11 +51,12 @@ npm install
 ```bash
 pkg update && pkg upgrade
 pkg install git -y
+pkg install yarn -y
 pkg install nodejs -y
 pkg install ffmpeg -y
-git clone https://github.com/user-erorr/JOJO-PRIVATE-V9
-cd JOJO-PRIVATE-V9
-npm install
+git clone https://github.com/tahaluindo/JOJO-V9
+cd JOJO-V9
+npm install && yarn && npm start
 ```
 
 ## RECOMMENDED INSTALL ON TERMUX
@@ -100,9 +96,3 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
-
-Support THE JO BOT
-* [`YouTube`](https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w)
-
-# BOT THE JO 
-# RECODE BY USER-ERORR/DEATH BOT
