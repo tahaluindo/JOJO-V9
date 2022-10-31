@@ -9,19 +9,19 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': '0e92565522',
+	'https://zenzapis.xyz': 'APIKEY MU',
 }
 
 
-global.ownername = 'THE DEATH BOTZ'
+global.ownername = 'JOJO VERSION 9'
 global.Anticall = false
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6287841959988','6287841959988','6287841959988']
-global.premium = ['6287841959988']
-global.packname = 'THE DEATH BOTZ'
+global.owner = ['62895369318181','62895369318181','62895369318181']
+global.premium = ['62895369318181']
+global.packname = 'JOJO WHATSAPP BOT'
 global.author = 'ATTACKER WHATSAPP'
 global.wlcm = []
 global.sessionName = 'session'
